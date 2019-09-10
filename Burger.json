@@ -5,49 +5,6 @@
             "id": "1",
             "title": "Cheddar-Stuffed Burgers",
             "description": "Cheese-stuffed “Juicy Lucy” burgers with a custom blend of ground rib eye steak and pork fatback.",
-            
-        },
-        {
-            "id": "2",
-            "name": "Ma bravo Mario",
-            "country": "Spain",
-            
-        },
-        {
-            "id": "3",
-            "name": "Novak Djokovic",
-            "country": "Serbia",
-            
-        },
-        {
-            "id": "4",
-            "name": "Andy Murray",
-            "country": "United Kingdom",
-            
-        },
-        {
-            "id": "5",
-            "name": "Maria Sharapova",
-            "country": "Russia",
-            
-        },
-        {
-            "id": "6",
-            "name": "Caroline Wozniacki",
-            "country": "Denmark",
-           
-        },
-        {
-            "id": "7",
-            "name": "Eugenie Bouchard",
-            "country": "Canada",
-            
-        },
-        {
-            "id": "8",
-            "name": "Ana Ivanovic",
-            "country": "Serbia",
-          
-        }
-    ]
-}
+            "imgURL":"https:\/\/demonuts.com\/Demonuts\/SampleImages\/roger.jpg"
+        }]
+     
