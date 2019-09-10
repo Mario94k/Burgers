@@ -3,51 +3,51 @@
     "data": [
         {
             "id": "1",
-            "name": "Burger",
-            "country": "America",
-            "city": "New York"
+            "title": "Cheddar-Stuffed Burgers",
+            "description": "Cheese-stuffed “Juicy Lucy” burgers with a custom blend of ground rib eye steak and pork fatback.",
+            
         },
         {
             "id": "2",
             "name": "Ma bravo Mario",
             "country": "Spain",
-            "city": "Madrid"
+            
         },
         {
             "id": "3",
             "name": "Novak Djokovic",
             "country": "Serbia",
-            "city": "Monaco"
+            
         },
         {
             "id": "4",
             "name": "Andy Murray",
             "country": "United Kingdom",
-            "city": "London"
+            
         },
         {
             "id": "5",
             "name": "Maria Sharapova",
             "country": "Russia",
-            "city": "Moscow"
+            
         },
         {
             "id": "6",
             "name": "Caroline Wozniacki",
             "country": "Denmark",
-            "city": "Odense"
+           
         },
         {
             "id": "7",
             "name": "Eugenie Bouchard",
             "country": "Canada",
-            "city": " Montreal"
+            
         },
         {
             "id": "8",
             "name": "Ana Ivanovic",
             "country": "Serbia",
-            "city": "Belgrade"
+          
         }
     ]
 }
