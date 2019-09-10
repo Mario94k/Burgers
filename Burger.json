@@ -1,12 +1,10 @@
-"status": "true",
-    "message": "Data fetched successfully!",
-    "data": [
-        {
-            "id": "1",
-            "title": "Cheddar-Stuffed Burgers",
-            "description": "Cheese-stuffed “Juicy Lucy” burgers with a custom blend of ground rib eye steak and pork fatback.",
-            "imgURL":"https:\/\/demonuts.com\/Demonuts\/SampleImages\/roger.jpg"
-        }
-    ]
+{"status":"true",
+    "message":"Data fetched successfully!",
+ "data":
+ [{"id":"1",
+   "title":"MARIO ",
+   "description":"SPr",
+   "image":"https:\/\/demonuts.com\/Demonuts\/SampleImages\/roger.jpg"
+  }
+  ]
 }
-     
